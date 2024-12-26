@@ -1,4 +1,4 @@
 # scalercollege-demo
 This is My First Git repository
 <br>
-Author - Hirendra Raghuwanshi
+Author - Hirendra Pratap Singh Raghuwanshi
